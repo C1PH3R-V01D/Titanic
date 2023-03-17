@@ -21,5 +21,3 @@ def survival():
         return "<h1 style='color:green'>Survived</h1>"
     else:
         return "<h1 style='color:red'>NOT Survived</h1>"
-    
-app.run(debug=True)
